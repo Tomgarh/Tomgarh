@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Designer, currently on a python course online.
 --------------------------------------------------
 
-I have been learning code for 3 years now, I began with Html and Css, I am currently taking Python programming classes online, i love python language cause it can be used to develop games, apps and websites as well. In general, i have found passion for Backend development and always willing to learn more!
+I have been learning to code for 3 years now, I began with Html and Css, I am currently taking Python programming classes online, i love python language cause it can be used to develop games, apps and websites as well. In general, i have found passion for Backend development and always willing to learn more!
 
 *   🌍  I'm based in Abuja, Nigeria
 *   🖥️  See my portfolio at [MyPortfolio](http://github.com/Tomgarh/Mazer-Master)
