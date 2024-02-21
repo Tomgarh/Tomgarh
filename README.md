@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thomas Ogar Besong
 ==========================================================================================================================================
 
-Web Designer, currently on a python course online.
+Web Designer, currently taking a python programming language course online.
 --------------------------------------------------
 
 I have been learning to code for 3 years now, I began with Html and Css, I am currently taking Python programming classes online, i love python language cause it can be used to develop games, apps and websites as well. In general, i have found passion for Backend development and always willing to learn more!
