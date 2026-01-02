@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thomas Ogar Besong
 ==========================================================================================================================================
 --------------------------------------------------
-Front-end web developer | HTML, CSS, Python, Javascript | Buidlding websites and apps.
+Front-end web developer | HTML, CSS, Python, Javascript | Building websites and apps.
 
 *   🖥️  See my portfolio at [MyPortfolio](http://github.com/Tomgarh/Mazer-Master)
 *   ✉️  You can contact me at [besong35@gmail.com](mailto:besong35@gmail.com)
