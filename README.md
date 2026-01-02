@@ -1,14 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thomas Ogar Besong
 ==========================================================================================================================================
-
-Web Designer, currently taking a python programming language course online.
 --------------------------------------------------
-
-I have been learning to code for 3 years now, I began with Html and Css, i love python language cause it can be used to develop games, apps and websites as well. In general, i have found passion for Front-End development and always willing to learn more!
+Front-end web developer | HTML, CSS, Python, Javascript | Buidlding websites and apps.
 
 *   🖥️  See my portfolio at [MyPortfolio](http://github.com/Tomgarh/Mazer-Master)
 *   ✉️  You can contact me at [besong35@gmail.com](mailto:besong35@gmail.com)
-*   🧠  I'm learning JavaScript.
 *   🤝  I'm open to collaborating on Web and Apps Development.
 *   ⚡  I am Cyborg, Tell Everyone!### Skills 
 <p align="left">
